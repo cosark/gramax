@@ -63,6 +63,10 @@ Publish your documentation as a website, hosted on your server or as a static si
 
 See [Setting Up the Documentation Portal](https://gram.ax/resources/docs/en/doc-portal) for instructions.
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Gramax/)
+
 ## Contact
 
 For support or questions, email [info@gram.ax](mailto:info@gram.ax), join our community chat in [Telegram](https://t.me/gramax_community_en) or visit our [GitHub issues page](https://github.com/Gram-ax/gramax/issues).
